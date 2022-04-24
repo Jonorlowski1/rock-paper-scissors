@@ -43,4 +43,5 @@ function playGame(user, comp) {
     }
   }
 }
-playGame();
+
+console.log(playGame(user, comp));
